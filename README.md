@@ -17,17 +17,17 @@ Il faut obligatoirement passer le nom de la zone.
 Pour trouver les zones allez voir sur cette page https://momentjs.com/timezone/
 
 ```html
-<clock zone="America/New_York"></clock>
+<clock-tz zone="America/New_York"></clock-tz>
 ```
 
 Il aussi possible de changer la couleur du tour de l'horloge et des aiguilles en rajoutant un paramètre color
 
 ```html
-<clock zone="America/New_York" color="#ff0000"></clock>
+<clock-tz zone="America/New_York" color="#ff0000"></clock-tz>
 ```
 
 ou
 
 ```html
-<clock zone="America/New_York" color="rgb(255, 0, 0)"></clock>
+<clock-tz zone="America/New_York" color="rgb(255, 0, 0)"></clock-tz>
 ```
